@@ -1,0 +1,15 @@
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\bin\Debug\net6.0\Application.deps.json
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\bin\Debug\net6.0\Application.dll
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\bin\Debug\net6.0\Application.pdb
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\bin\Debug\net6.0\Domain.dll
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\bin\Debug\net6.0\Domain.pdb
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\Application.dll
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\refint\Application.dll
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\Application.pdb
+D:\MY REPO\Level3Middleware\Level3Middleware\Application\obj\Debug\net6.0\ref\Application.dll
